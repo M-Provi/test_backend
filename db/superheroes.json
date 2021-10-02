@@ -1,0 +1,222 @@
+[
+	{
+		"name": "Ant-Man",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "Aquaman",
+		"species": "Human/Atlantean hybrid",
+		"gender": "Male"
+	},
+	{
+		"name": "Asterix",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "The Atom",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "The Avengers",
+		"species": "Various",
+		"gender": "Various"
+	},
+	{
+		"name": "Batgirl",
+		"species": "Human",
+		"gender": "Female"
+	},
+	{
+		"name": "Batman",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "Batwoman",
+		"species": "Human",
+		"gender": "Female"
+	},
+	{
+		"name": "Black Canary",
+		"species": "Human",
+		"gender": "Female"
+	},
+	{
+		"name": "Black Panther",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "Captain America",
+		"species": "Superhuman",
+		"gender": "Male"
+	},
+	{
+		"name": "Captain Marvel",
+		"species": "Superhuman",
+		"gender": "Female"
+	},
+	{
+		"name": "Catwoman",
+		"species": "Human",
+		"gender": "Female"
+	},
+	{
+		"name": "Conan the Barbarian",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "Daredevil",
+		"species": "Human mutate",
+		"gender": "Male"
+	},
+	{
+		"name": "The Defenders",
+		"species": "Various",
+		"gender": "Various"
+	},
+	{
+		"name": "Doc Savage",
+		"species": "Superhuman",
+		"gender": "Male"
+	},
+	{
+		"name": "Doctor Strange",
+		"species": "Superhuman",
+		"gender": "Male"
+	},
+	{
+		"name": "Elektra",
+		"species": "Human",
+		"gender": "Female"
+	},
+	{
+		"name": "Fantastic Four",
+		"species": "Human mutates",
+		"gender": "Various"
+	},
+	{
+		"name": "Ghost Rider",
+		"species": "Dead Human",
+		"gender": "Male"
+	},
+	{
+		"name": "Green Arrow",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "Green Lantern",
+		"species": "Superhuman",
+		"gender": "Male"
+	},
+	{
+		"name": "Guardians of the Galaxy",
+		"species": "Various",
+		"gender": "Various"
+	},
+	{
+		"name": "Hawkeye",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "Hellboy",
+		"species": "Cambion",
+		"gender": "Male"
+	},
+	{
+		"name": "Incredible Hulk",
+		"species": "Human mutate",
+		"gender": "Male"
+	},
+	{
+		"name": "Iron Fist",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "Iron Man",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "Marvelman",
+		"species": "Superhuman",
+		"gender": "Male"
+	},
+	{
+		"name": "Robin",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "The Rocketeer",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "The Shadow",
+		"species": "Human",
+		"gender": "Male"
+	},
+	{
+		"name": "Spider-Man",
+		"species": "Superhuman",
+		"gender": "Male"
+	},
+	{
+		"name": "Sub-Mariner",
+		"species": "Human mutate",
+		"gender": "Male"
+	},
+	{
+		"name": "Supergirl",
+		"species": "Superhuman",
+		"gender": "Female"
+	},
+	{
+		"name": "Superman",
+		"species": "Kryptonian",
+		"gender": "Male"
+	},
+	{
+		"name": "Teenage Mutant Ninja Turtles",
+		"species": "Turtle mutate",
+		"gender": "Male"
+	},
+	{
+		"name": "Thor",
+		"species": "Asgardian",
+		"gender": "Male"
+	},
+	{
+		"name": "The Wasp",
+		"species": "Human",
+		"gender": "Female"
+	},
+	{
+		"name": "Watchmen",
+		"species": "Human mutate",
+		"gender": "Male"
+	},
+	{
+		"name": "Wolverine",
+		"species": "Human mutate",
+		"gender": "Male"
+	},
+	{
+		"name": "Wonder Woman",
+		"species": "Amazon",
+		"gender": "Female"
+	},
+	{
+		"name": "X-Men",
+		"species": "Human mutate",
+		"gender": "Various"
+	}
+]

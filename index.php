@@ -1,5 +1,6 @@
 <?php
 
+session_start();
 //Autoload all controllers
 require_once 'config/autoload.php';
 

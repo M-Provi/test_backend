@@ -31,13 +31,10 @@
 #content form label {
 	font-weight: bolder;
 	height: 2.5em;
-	padding-right: 1em;
-	display: block;
 }
 
 #content input[type='text'],
-input[type='number'],
-input[type='button'] {
+input[type='number'] {
 	border-color: #df4c4c;
 	border-width: 0.5px;
 	border-style: solid;
@@ -49,17 +46,34 @@ input[type='button'] {
 }
 
 #content input[type='button'] {
+	height: 2.5em;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 0.6em;
+	border-width: 0px;
+	background-color: #f53f3f;
 	padding: 10px;
+	color: #ffff;
+}
+
+#content input[type='button']:hover {
+	background-color: #e21c1c;
 }
 
 #content input[type='submit'] {
-	padding: 10px;
+	padding: 20px;
+	margin: 0px 2em;
+	background-color: #f53f3f;
 	font-size: 1em;
+	border-width: 0px;
+	font-weight: bolder;
+	color: #ffff;
 }
-.column {
-	width: 50%;
-	float: left;
+
+#content input[type='submit']:hover {
+	background-color: #e21c1c;
 }
+
 #footer {
 	text-align: center;
 	font-weight: bold;

@@ -5,12 +5,7 @@ class Superheroe{
     private $species;
     private $gender;
 
-    public function __construct($name, $species, $gender)
-    {
-        $this->name = $name;
-        $this->species = $species;
-        $this->gender = $gender;
-    }
+    public function __construct(){}
 
     //Setters and getters
     public function setName($name){
@@ -38,7 +33,18 @@ class Superheroe{
     }
 
     public function getAll(){
+        $file = file_get_contents(base_url.'db/superheroes.json');
+        $content = json_decode($file, true);
+
+        return $content;
+    }
+
+    public function getRandom(){
+        $file = file_get_contents(base_url.'db/superheroes.json');
+        $content = json_decode($file, true);
+        $rand = $content[rand(0, count($content) - 1)];
         
+        return $rand;
     }
 
 

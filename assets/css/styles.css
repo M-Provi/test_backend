@@ -9,7 +9,7 @@
 }
 
 #header img {
-	width: 30em;
+	width: 25em;
 }
 
 #header h1 {
@@ -19,6 +19,7 @@
 }
 
 #content {
+	width: 99%;
 	padding-top: 2em;
 	padding-bottom: 2em;
 }
@@ -43,6 +44,7 @@ input[type='number'] {
 	text-align: center;
 	font-weight: bolder;
 	font-size: 0.6em;
+	border-radius: 10px;
 }
 
 #content input[type='button'] {
@@ -54,10 +56,15 @@ input[type='number'] {
 	background-color: #f53f3f;
 	padding: 10px;
 	color: #ffff;
+	border-radius: 10px;
 }
 
 #content input[type='button']:hover {
 	background-color: #e21c1c;
+}
+
+#content input[type='button']:disabled {
+	background-color: #bbbb;
 }
 
 #content input[type='submit'] {
@@ -68,6 +75,7 @@ input[type='number'] {
 	border-width: 0px;
 	font-weight: bolder;
 	color: #ffff;
+	border-radius: 10px;
 }
 
 #content input[type='submit']:hover {
@@ -77,4 +85,31 @@ input[type='number'] {
 #footer {
 	text-align: center;
 	font-weight: bold;
+}
+
+.guess {
+	font-size: 2em;
+	padding-top: 1em;
+}
+
+#guesses {
+	border-style: dashed;
+	border-width: 2px;
+	width: 80%;
+	padding: 10px;
+	height: 8em;
+	border-color: #e21c1c;
+	border-radius: 10px;
+}
+
+#players_box {
+	border-style: dashed;
+	text-align: left;
+	border-width: 2px;
+	width: 80%;
+	margin-top: 10px;
+	padding: 10px;
+	height: 3em;
+	border-color: #e21c1c;
+	border-radius: 10px;
 }

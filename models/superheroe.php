@@ -32,6 +32,7 @@ class Superheroe{
         return $this->gender;
     }
 
+    //Function to get All superheroes
     public function getAll(){
         $file = file_get_contents(base_url.'db/superheroes.json');
         $content = json_decode($file, true);
@@ -39,6 +40,7 @@ class Superheroe{
         return $content;
     }
 
+    //Function to get a random superheroe
     public function getRandom(){
         $file = file_get_contents(base_url.'db/superheroes.json');
         $content = json_decode($file, true);
